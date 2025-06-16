@@ -94,3 +94,92 @@ destination = "Fiber trench, 300m eastbound"
 quantum_results = "Backscatter anomaly detected in 2/3 sectors"
 cpu_usage = 45.7
 ram_usage = 61.3
+
+
+
+```
+## 🚀 Installation & Usage Guide
+
+The **Quantum Hypertime Nanobot Excavation Utility Risk Scanner (Q-811-NS)** is a GUI-based quantum safety scanner for excavation teams. It detects underground utilities, voids, and anomalies using hypertime simulations and nosonar backscatter — all through an intuitive Python GUI.
+
+---
+
+### 🐍 Option 1: Run Locally with Python (Recommended)
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/quantum-811-scanner.git
+cd quantum-811-scanner
+```
+
+#### 2. Create a Virtual Environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate       # On Windows: venv\Scripts\activate
+```
+
+#### 3. Install Required Packages
+
+```bash
+pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+#### 4. Launch the Application
+
+```bash
+python main.py
+```
+
+> 🖥 The GUI will launch. You can:
+> - Enter job location and vehicle type
+> - Select your dig destination
+> - Run the quantum scan
+> - View risk alerts and export reports
+
+---
+
+### 🐳 Option 2: Run with Docker
+
+#### 1. Build the Docker Image
+
+```bash
+docker build -t quantum-811-scanner .
+```
+
+#### 2. Run the Container
+
+```bash
+docker run --rm -it \
+  -v "$(pwd)/data":/app/data \
+  quantum-811-scanner
+```
+
+> 🐧 Linux/macOS users: If GUI doesn’t appear, you may need to configure X11 display forwarding.
+
+---
+
+### ✅ Requirements
+
+- Python 3.8+
+- `tkinter` (usually included with Python)
+- Docker (optional)
+- OpenAI API key (optional for GPT-4o logic)
+- Optional: PennyLane/Qiskit if expanding with quantum circuits
+
+---
+
+### 🔐 Logs & Output
+
+- All scans are saved to the `data/` folder
+- Reports can be encrypted using AES-GCM (if enabled)
+- Formats include `.txt`, `.json`, or `.log` based on configuration
+
+---
+
+### ⚠️ Disclaimer
+
+> This tool enhances safety but **does not replace official 811 utility marking services**. Always confirm with certified professionals before excavation.
+```
