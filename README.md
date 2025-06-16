@@ -1,5 +1,5 @@
 # Quantum Hypertime Nanobot Excavation Utility Risk Scanner (Q-811-NS)
-
+![Quantum Dig Scanner - Hypertime Thumbnail](https://raw.githubusercontent.com/dosh41126/quantum-dig-scanner/refs/heads/main/dig.png)
 ## Overview
 
 The **Q-811-NS** system is an advanced, quantum-enhanced AI scanner designed to **detect and prevent underground utility strikes, void collapses, and excavation-related hazards**. It integrates **multiversal hypertime simulations**, **nosonar harmonic analysis**, and a **25-color QID quantum vector resonance mesh** to deliver **zero-failure** pre-dig assessments.
