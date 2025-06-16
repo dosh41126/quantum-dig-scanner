@@ -148,7 +148,7 @@ python main.py
 ### 🔐 Logs & Output
 
 - All scans are saved to the `data/` folder
-- Reports can be encrypted using AES-GCM (if enabled)
+- Reports are encrypted using AES-GCM (if enabled)
 - Formats include `.txt`, `.json`, or `.log` based on configuration
 
 ---
