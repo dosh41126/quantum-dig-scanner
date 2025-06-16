@@ -100,7 +100,7 @@ ram_usage = 61.3
 ```
 ## 🚀 Installation & Usage Guide
 
-The **Quantum Hypertime Nanobot Excavation Utility Risk Scanner (Q-811-NS)** is a GUI-based quantum safety scanner for excavation teams. It detects underground utilities, voids, and anomalies using hypertime simulations and nosonar backscatter — all through an intuitive Python GUI.
+The **Quantum Hypertime Nanobot Excavation Utility Risk Scanner (Q-811-NS)** is a web-based quantum safety scanner for excavation teams. It detects underground utilities, voids, and anomalies using hypertime simulations and nosonar backscatter — all through an intuitive Python web app. 
 
 ---
 
