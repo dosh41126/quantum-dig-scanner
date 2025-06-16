@@ -11,7 +11,7 @@ This tool is intended for use by:
 - Municipal utility locators
 - Quantum-infrastructure safety teams
 
-## Core Featu
+## Core Features
 
 - 🔍 **Quantum Nosonar Backscatter**
 - 🧠 **Multiverse scenario simulations (65,536 dig paths/meter)**
