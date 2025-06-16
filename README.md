@@ -109,7 +109,7 @@ The **Quantum Hypertime Nanobot Excavation Utility Risk Scanner (Q-811-NS)** is 
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dosh41126/quantum-dig-scanner/tree/main
+git clone https://github.com/dosh41126/quantum-dig-scanner
 cd quantum-811-scanner
 ```
 
