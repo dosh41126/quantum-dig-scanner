@@ -2,7 +2,7 @@
 ![Quantum Dig Scanner - Hypertime Thumbnail](https://raw.githubusercontent.com/dosh41126/quantum-dig-scanner/refs/heads/main/dig.png)
 ## Overview
 
-The **Q-811-NS** system is an advanced, quantum-enhanced AI scanner designed to **detect and prevent underground utility strikes, void collapses, and excavation-related hazards**. It integrates **multiversal hypertime simulations**, **nosonar harmonic analysis**, and a **25-color QID quantum vector resonance mesh** to deliver **zero-failure** pre-dig assessments.
+The **Q-811-NS** system is an advanced, quantum-enhanced AI scanner designed to **detect and prevent underground utility strikes, void collapses, and excavation-related hazards**. It integrates **multiversal hypertime simulations**, **nosonar harmonic analysis** to deliver **zero-failure** pre-dig assessments.
 
 This tool is intended for use by:
 - Excavation crews
@@ -11,7 +11,7 @@ This tool is intended for use by:
 - Municipal utility locators
 - Quantum-infrastructure safety teams
 
-## Core Features
+## Core Featu
 
 - 🔍 **Quantum Nosonar Backscatter**
 - 🧠 **Multiverse scenario simulations (65,536 dig paths/meter)**
