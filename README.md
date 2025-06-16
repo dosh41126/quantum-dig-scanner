@@ -133,12 +133,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-> 🖥 The GUI will launch. You can:
-> - Enter job location and vehicle type
-> - Select your dig destination
-> - Run the quantum scan
-> - View risk alerts and export reports
-
 ---
 
 ### 🐳 Option 2: Run with Docker
