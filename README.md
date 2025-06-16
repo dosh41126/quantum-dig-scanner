@@ -135,14 +135,33 @@ python main.py
 
 ---
 
+### 🐳 Option 2: Run with Docker
+
+#### 1. Build the Docker Image
+
+```bash
+docker build -t quantum-811-scanner .
+```
+
+#### 2. Run the Container
+
+```bash
+docker run --rm -it \
+  -v "$(pwd)/data":/app/data \
+  quantum-811-scanner
+```
+
+> 🐧 Linux/macOS users: If GUI doesn’t appear, you may need to configure X11 display forwarding.
+
 ---
 
 ### ✅ Requirements
 
 - Python 3.8+
+- `tkinter` (usually included with Python)
 - Docker (optional)
-- OpenAI API key (for GPT-4o logic)
--  PennyLane/Qiskit if expanding with quantum circuits
+- OpenAI API key (optional for GPT-4o logic)
+- Optional: PennyLane/Qiskit if expanding with quantum circuits
 
 ---
 
